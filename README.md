@@ -1,4 +1,4 @@
-# 🌿 Herbarium Trait Analysis: Automating Ecological Discovery
+# 🌿 Herbarium Specimen Trait Analysis: Automating Ecological Discovery
 
 ## 🚀 The Mission
 
