@@ -32,7 +32,7 @@ By mapping `Collection Year` against `Leaf Circularity`, this pipeline enables t
 
 ## 📦 Getting Started
 
-1. **Clone the repo**: `git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git`
+1. **Clone the repo**: `https://github.com/mahamtaqi3-cloud/Herbarium-Specimen-Trait-Analysis/blob/main/README.md
 2. **Install dependencies**: `pip install -r requirements.txt`
 3. **Run the analysis**: Open `herbarium_analysis.ipynb` in Google Colab or Jupyter and point it to your image directory.
 
